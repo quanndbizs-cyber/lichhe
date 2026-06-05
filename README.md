@@ -2,6 +2,10 @@
 
 Web app nhỏ để ghi nhận thành tích, cộng/trừ sao, đổi thưởng và upload ảnh minh chứng.
 
+## Tài liệu sử dụng
+
+- [Hướng dẫn sử dụng Bảng sao mùa hè](docs/HUONG_DAN_SU_DUNG.md)
+
 ## Cài nhanh
 
 ```bash
